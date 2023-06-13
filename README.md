@@ -1,4 +1,4 @@
-## 随便玩玩
+## iStore extension
 
 #### iStore插件包
 
